@@ -4,9 +4,12 @@
   "dependencies": {
     "react": "19.3.1",
     "react-native": "0.88.1",
-    "react-native-css": "0.0.0-nightly.2421ea7"
+    "react-native-css": "0.0.0-nightly.811f357"
   },
   "devDependencies": {
+    "@types/babel__core": "7.20.5",
+    "@types/babel__traverse": "7.28.0",
+    "@types/connect": "3.4.38",
     "@types/node": "26.6.6",
     "@types/react": "19.3.0",
     "typescript": "7.0.2"

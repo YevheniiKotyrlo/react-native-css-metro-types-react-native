@@ -1,1 +1,3 @@
-import type {} from 'react-native-css/metro';
+import { withReactNativeCSS } from 'react-native-css/metro';
+
+export default withReactNativeCSS({}, { globalClassNamePolyfill: true });
